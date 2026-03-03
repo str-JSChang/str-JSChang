@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason Chang</h1>
-<h3 align="center">A nerd that has strong passionate in Computer Science</h3>
+<h3 align="center">A nerd that has strong passionate in Computer Science; I will organize my Github, hopefully</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=str-jschang&label=Profile%20views&color=000000&style=flat" alt="str-jschang" /> </p>
 
